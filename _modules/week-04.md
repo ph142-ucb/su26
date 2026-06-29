@@ -3,8 +3,7 @@ title: Week 4
 days:
   - date: 2026-07-27
     events:
-      "**Exam**{: .label .label-exam} Midterm":
-        "Covers data, visualization, descriptive statistics, regression basics, tables, sampling, study design, probability, distributions, and the Central Limit Theorem"
+      "**Exam**{: .label .label-exam} Midterm"
       "**Homework 6**{: .label .label-hw} Released on Datahub":
   - date: 2026-07-28
     events:

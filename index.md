@@ -11,22 +11,36 @@ description: >-
 PH 142, Summer 2026
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
-**Instructor**: [Mi-Suk Kang Dufour]({{ site.baseurl }}/staff)
+**Instructor**: [Jiaxin Qing]({{ site.baseurl }}/staff)
 
 ## Important Information
 
-- **Questions & Discussion**: Please use Ed Discussion for all course-related questions (link TBD)
+- **Questions & Discussion**: Please use Ed Discussion for all course-related questions
 - **Non-content inquiries**: [142gsi@berkeley.edu](mailto:142gsi@berkeley.edu)
-- **Lectures**: Monday through Friday, 9:30 to 10:59 AM Pacific
+- **Lectures**: Monday through Friday, 9:30 to 10:59 AM Pacific. Lecture recordings available.
 - **Labs**: Monday through Thursday, 11:00 to 11:59 AM Pacific for sections 101A/102A; 5:00 to 5:59 PM Pacific for sections 103A/104A
-- **Location**: Internet/Online (Zoom link TBD)
-- **Term**: Summer Session D, July 6 to August 14, 2026
+- **Location**: Internet/Online 
+- **Term**: Summer, July 6 to August 14, 2026
 - **Class number**: #13581
 - **Content**: Please refer to the [course schedule]({{ site.baseurl }}/course-schedule)
 
 {% if site.announcements %}
 We will not be updating this page with announcements. For the latest announcements, make sure to check Ed.
 {% endif %}
+
+## Zoom links
+### Lecture: 
+
+https://berkeley.zoom.us/j/94876546212?pwd=4R4VWIaRan1DihgE0qhiRFMwuv53CD.1
+
+Meeting ID: 948 7654 6212
+Passcode: 005498
+
+### Labs: 
+- 101A, 11:00 am - 11:59 am
+- 102A, 11:00 am - 11:59 am
+- 103A, 5:00 pm - 5:59 pm
+- 104A, 5:00 pm - 5:59 pm
 
 ## Course Description
 
