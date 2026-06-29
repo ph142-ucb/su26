@@ -23,6 +23,6 @@ days:
     events:
       "**Lecture 10**{: .label .label-lec} [Introduction to probability](https://ph142-ucb.github.io/su26/src/lec/l11-intro-to-probability.pdf)":
         "Ch. 9"
-      "**Weekly Assignment 2**{: .label .label-assignment} Released on Gradescope (due before Weekly Assignment 3 is released)":
+      "**Weekly Assignment 2**{: .label .label-assignment} (due before Weekly Assignment 3 is released)":
       "**Data Project**{: .label .label-proj} Group confirmation due Sunday July 19 at 10:00 PM Pacific":
 ---

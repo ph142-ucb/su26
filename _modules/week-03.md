@@ -20,6 +20,6 @@ days:
     events:
       "**Lecture 15**{: .label .label-lec} [Sampling distributions and the Central Limit Theorem](https://ph142-ucb.github.io/su26/src/lec/l18-central-limit.pdf)":
       "**Lab**{: .label .label-lab} Midterm review session (due end of day)":
-      "**Weekly Assignment 3**{: .label .label-assignment} Released on Gradescope (due before Weekly Assignment 4 is released)":
+      "**Weekly Assignment 3**{: .label .label-assignment} (due before Weekly Assignment 4 is released)":
       "**Data Project**{: .label .label-proj} Part I due Sunday July 26 at 11:59 PM Pacific":
 ---

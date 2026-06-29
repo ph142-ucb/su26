@@ -18,5 +18,5 @@ days:
   - date: 2026-07-31
     events:
       "**Lecture 19**{: .label .label-lec} [From z to t tests for one-sample means](https://ph142-ucb.github.io/su26/src/lec/l22-ztot.pdf)":
-      "**Weekly Assignment 4**{: .label .label-assignment} Released on Gradescope (due before Weekly Assignment 5 is released)":
+      "**Weekly Assignment 4**{: .label .label-assignment} (due before Weekly Assignment 5 is released)":
 ---

@@ -20,5 +20,5 @@ days:
     events:
       "**Lecture 5**{: .label .label-lec} [Exploring relationships between two variables](https://ph142-ucb.github.io/su26/src/lec/l05-relationships-between-two-variables.pdf)":
         "Ch. 3"
-      "**Weekly Assignment 1**{: .label .label-assignment} Released on Gradescope (due before Weekly Assignment 2 is released)":
+      "**Weekly Assignment 1**{: .label .label-assignment} (due before Weekly Assignment 2 is released)":
 ---

@@ -20,6 +20,6 @@ days:
   - date: 2026-08-07
     events:
       "**Lecture 25**{: .label .label-lec} [Inference for linear regression](https://ph142-ucb.github.io/su26/src/lec/regression-inference.pdf)":
-      "**Weekly Assignment 5**{: .label .label-assignment} Released on Gradescope (due before Weekly Assignment 6 is released)":
+      "**Weekly Assignment 5**{: .label .label-assignment} (due before Weekly Assignment 6 is released)":
       "**Data Project**{: .label .label-proj} Part II due Sunday August 9 at 11:59 PM Pacific":
 ---

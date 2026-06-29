@@ -19,6 +19,6 @@ days:
   - date: 2026-08-14
     events:
       "**Exam**{: .label .label-exam} Online final exam":
-      "**Weekly Assignment 6**{: .label .label-assignment} Released on Gradescope":
+      "**Weekly Assignment 6**{: .label .label-assignment}":
       "**Data Project**{: .label .label-proj} Part III due at 5:00 PM Pacific":
 ---
