@@ -1,0 +1,382 @@
+\documentclass[11pt]{article}
+
+\usepackage[letterpaper,margin=0.85in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{tabularx}
+\usepackage{xcolor}
+\usepackage{hyperref}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue,
+  urlcolor=blue
+}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}
+\renewcommand{\arraystretch}{1.15}
+
+\newcommand{\coursename}{PH 142: Introduction to Probability and Statistics in Biology and Public Health}
+\newcommand{\term}{Summer 2026}
+\newcommand{\website}{https://ph142-ucb.github.io/su26/}
+\newcommand{\courseemail}{jxqing@berkeley.edu}
+
+\begin{document}
+
+\begin{center}
+{\Large \textbf{\coursename}}\\
+{\large \term}\\
+Summer Session D, July 6--August 14, 2026\\
+4 semester credits
+\end{center}
+
+\textbf{Please note:} This syllabus is subject to change. The course website
+will contain the most current schedule, links, and assignment information:
+\href{\website}{\website}.
+
+\section*{Course Format and Meeting Information}
+
+\begin{tabularx}{\textwidth}{>{\bfseries}p{1.55in}X}
+Course & PBHLTH 142, Section 001, Lecture 001\\
+Class number & 13581\\
+Instruction mode & Online\\
+Lecture & Monday through Friday, 9:30--10:59 AM Pacific, Internet/Online. Recordings will be posted daily; live Zoom lectures will be held every other day.\\
+Labs & Online and synchronous, Monday through Thursday\\
+Discussion platform & Ed Discussion. We will use Ed Discussion, not Piazza, for course questions and announcements.\\
+\end{tabularx}
+
+\subsection*{Lab Sections}
+
+\begin{tabularx}{\textwidth}{llllX}
+\toprule
+Section & Class \# & Days & Time & Place\\
+\midrule
+101A & 13583 & Mo, Tu, We, Th & 11:00--11:59 AM & Internet/Online\\
+102A & 13584 & Mo, Tu, We, Th & 11:00--11:59 AM & Internet/Online\\
+103A & 13585 & Mo, Tu, We, Th & 5:00--5:59 PM & Internet/Online\\
+104A & 13586 & Mo, Tu, We, Th & 5:00--5:59 PM & Internet/Online\\
+\bottomrule
+\end{tabularx}
+
+\section*{Course Description}
+
+This course is an introduction to statistics and data science, primarily for
+MPH and undergraduate public health majors, and others interested in public
+health topics. The course can be divided into three parts.
+
+\textbf{Part I} focuses on using R to explore datasets and summarize univariate
+and bivariate distributions visually and numerically. We will also introduce
+concepts around sampling and how study data are acquired. Specifically, we will
+use the \texttt{dplyr} and \texttt{ggplot2} packages to manipulate and visualize
+data sets in R.
+
+\textbf{Part II} introduces classical problems in probability and the Normal,
+Binomial, and Poisson distributions. We also introduce concepts around sampling
+variability and the Central Limit Theorem.
+
+\textbf{Part III} introduces statistical inference: the process of estimating
+statistics from samples to make inference about populations. During all parts
+of the course we will use real and simulated data sets to gain experience
+conducting biostatistical analyses using R. We will follow the PPDAC model:
+Problem, Plan, Data, Analysis, and Conclusion.
+
+\section*{Prerequisites}
+
+No specific coursework is required, and no programming background is necessary.
+We expect a level of math equivalent to a US secondary school algebra course.
+
+\section*{Course Learning Objectives}
+
+After successfully completing Part I of the course, you will be able to:
+\begin{itemize}
+  \item Extract relevant statistical information from published articles in the scientific and popular press.
+  \item Describe distributions of variables visually and calculate summary statistics for centrality and spread.
+  \item Determine appropriate graphics for distributions and provide R code to manipulate and visualize data frames.
+  \item Identify basic sampling strategies and study designs used in public health.
+  \item Describe core concepts of ethics in public health.
+  \item Perform basic data manipulation in R.
+\end{itemize}
+
+After successfully completing Part II of the course, you will be able to:
+\begin{itemize}
+  \item Compute probabilities using general probability rules.
+  \item Understand statistical independence.
+  \item Identify and describe Binomial and Poisson random variables.
+  \item Compute probabilities using basic properties of the Normal distribution.
+  \item Express epidemiologic measures as probabilities.
+  \item Describe sampling variability and the Central Limit Theorem.
+  \item Write R code to compute probabilities for the Normal, Binomial, and Poisson distributions.
+\end{itemize}
+
+After successfully completing Part III of the course, you will be able to:
+\begin{itemize}
+  \item Estimate means, proportions, and differences between means and proportions; compute confidence intervals; and perform statistical tests.
+  \item Choose appropriate measures and statistical tests for associations between variables.
+  \item State the assumptions and importance of assumptions for statistical tests.
+  \item Describe and check assumptions for simple linear regression.
+  \item Interpret confidence intervals and statistical tests for regression intercept and slope coefficients.
+  \item Write R code snippets to generate confidence intervals, perform hypothesis tests, and calculate p-values.
+  \item Formulate a clear statistical question, address it with an appropriate method, and accurately report findings.
+\end{itemize}
+
+\section*{Instructor Information and Communication}
+
+\textbf{Instructor:} Jiaxin Qing (he/him/his)\\
+\textbf{Instructor email:} \href{mailto:jxqing@berkeley.edu}{jxqing@berkeley.edu}\\
+\textbf{Instructor availability:} Please book through email.\\
+\textbf{Course email for non-content inquiries:} \href{mailto:\courseemail}{\courseemail}
+
+While the instructor will interact with the whole class and oversee activities
+and grading, Graduate Student Instructors (GSIs) will be your main point of
+contact for assignment and course requirement questions. GSIs will lead lab
+sections, hold office hours, and facilitate discussion.
+
+All questions about course material should be asked on Ed Discussion. We will
+not answer course-content questions by email. This keeps answers available to
+the full class. For questions and concerns not related to course content, email
+\href{mailto:\courseemail}{\courseemail}. Do not use the bCourses emailing
+system for course communication.
+
+\subsection*{Office Hours}
+
+GSI office hours will be posted on the course calendar. You may attend the
+office hours of any GSI regardless of your lab section. Instructor office hours
+will primarily be offered by appointment through email.
+
+\section*{Students with Disabilities}
+
+The Disabled Students' Program (DSP) ensures that students with disabilities
+have equal access to educational opportunities at UC Berkeley. We will
+accommodate students' needs according to DSP documentation. Please initiate the
+DSP process as early as possible so that accommodations can be implemented in
+time for the first exam. New students can begin at
+\href{https://dsp.berkeley.edu/students/new-students}{https://dsp.berkeley.edu/students/new-students}.
+
+If you require DSP accommodations for an exam, email
+\href{mailto:\courseemail}{\courseemail} with ``DSP accommodation'' in the
+subject heading as soon as you know accommodations are required. If your
+accommodation allows for extensions on take-home assignments, please discuss
+your request no later than 24 hours after the assignment is posted.
+
+\section*{Course Materials and Technical Requirements}
+
+\textbf{Course website:} \href{\website}{\website}. The course website will
+contain required and optional readings, the syllabus, assignment descriptions,
+course resources, the most up-to-date schedule, and assignment information.
+
+We will use R, RStudio, and Datahub. Use of R, RStudio, and Datahub is required
+for homework assignments and lab exercises and requires an internet connection
+and web browser. You will learn how to use R, RStudio, and Datahub during the
+first week of classes.
+
+\textbf{Optional textbook:} \emph{The Practice of Statistics in the Life
+Sciences} by Brigitte Baldi and David S. Moore. The 4th edition is the latest
+one, but previous editions are fine. The textbook is not required; course
+materials take precedence where there are differences.
+
+\section*{Learning Activities and Assignments}
+
+All times listed are Pacific Time.
+
+\subsection*{Lectures}
+
+Lectures meet Monday through Friday from 9:30 to 10:59 AM Pacific. Lectures are
+online. Lecture recordings will be made available every day. Live Zoom lectures
+will be held every other day; on non-live days, students should use the posted
+recordings and materials to keep pace with the course. Participation activities
+during lecture may count toward the course grade.
+
+\subsection*{Lab/Discussion Sections}
+
+Lab/discussion sections meet synchronously online Monday through Thursday.
+Sections 101A and 102A meet 11:00--11:59 AM; sections 103A and 104A meet
+5:00--5:59 PM. Lab sessions will include hands-on coding activities in R,
+review of key concepts, group activities, and support for group data projects.
+Lab attendance will be recorded. Each day's lab questions will be released on
+that day and are due by the end of that same day.
+
+\subsection*{Participation}
+
+Throughout the term you will be asked to provide feedback, practice with course
+systems, and participate in course discussions. Participation activities may
+occur during lecture and lab and may not be announced in advance. These
+activities are graded for completion only. The participation grade will include
+lab attendance and participation in the data project, in addition to other
+course participation activities announced by the instructional team.
+
+\subsection*{Homework Assignments / Problem Sets}
+
+Homework and problem set materials may be distributed as R Markdown files on
+Datahub. These materials provide practice and preparation for exams, labs,
+weekly assignments, and the data project. Solutions will be posted after
+students have had time to complete the assignment.
+
+\subsection*{Lab Exercises}
+
+Lab exercises are intended to practice lecture concepts in a practical
+programming environment. They are intended to be completed during lab with
+support from GSIs. If you are unable to attend lab on a given week, you may
+complete the lab independently. Lab exercises are submitted through Datahub to
+Gradescope and are graded for correct completion. Lab attendance will be
+recorded. Each day's lab questions will be released on that day and are due by
+the end of that same day.
+
+\subsection*{Weekly Assignments}
+
+Weekly assignments are short assessments meant to encourage you to keep up with
+course content. Each weekly assignment will be released at the end of the week
+and will be due before the next weekly assignment is released. Weekly
+assignments will be administered through Gradescope or another course platform
+announced on Ed Discussion. No weekly assignment score will be automatically
+dropped.
+
+\subsection*{Midterm and Final Exam}
+
+There will be one midterm exam and one final exam. The draft course schedule
+places the midterm on Monday, July 27, and the final exam on Friday, August 14.
+Both exams will be administered online. Students must complete each exam within
+the specified time window and upload their work according to the instructions
+provided by the instructional team. Exams may cover material presented in
+lecture, supplemental videos, discussion, lab sections, and R coding syntax
+unless otherwise noted.
+
+Students may use one page of handwritten or printed notes for the midterm and
+two pages of handwritten or printed notes for the final exam. If notes are
+printed, the font should be at least 10 point. You may not use the internet to
+search for answers or inform your answers during exams unless the instructional
+team explicitly permits it. You may not use AI tools during the midterm or final
+exam. While taking an exam, you are prohibited from discussing the exam with
+anyone other than the PH 142 instructional team.
+Evidence of academic misconduct may result in a zero on the exam or further
+disciplinary action.
+
+\subsection*{Data Skills Demonstration Group Project}
+
+The purpose of the group project is to use public health or biological data
+that you find or have access to and use it to demonstrate statistical concepts
+learned throughout the course. The project will be submitted in three parts.
+The Summer 2026 draft deadlines are:
+
+\begin{itemize}
+  \item Group confirmation form: July 19 at 10:00 PM Pacific.
+  \item Part I: July 26 at 11:59 PM Pacific.
+  \item Part II: August 9 at 11:59 PM Pacific.
+  \item Part III: August 14 at 5:00 PM Pacific.
+\end{itemize}
+
+\section*{Grading}
+
+The draft final course grade percentages are:
+
+\begin{tabularx}{\textwidth}{>{\bfseries}p{2.2in}p{1.2in}X}
+\toprule
+Category & Percentage & Notes\\
+\midrule
+Weekly assignments & 15\% & Released at the end of each week; due before the next weekly assignment is released\\
+Participation & 10\% & Includes lab attendance and data project participation\\
+Lab completion & 10\% & Attendance recorded; each day's lab is due by the end of that day\\
+Midterm exam & 20\% & One midterm for Summer Session D\\
+Final exam & 25\% & Online and cumulative unless otherwise announced\\
+Data project & 20\% & Submitted in three parts\\
+\bottomrule
+\end{tabularx}
+
+\section*{Tentative Course Schedule}
+
+The schedule below is tentative. The website is the authoritative schedule.
+
+\begin{longtable}{@{}p{0.55in}p{1.05in}p{4.75in}@{}}
+\toprule
+Week & Dates & Topics and major deadlines\\
+\midrule
+\endfirsthead
+\toprule
+Week & Dates & Topics and major deadlines\\
+\midrule
+\endhead
+1 & Jul 6--10 & Course introduction; PPDAC; Datahub; working with data in R; visualization; numerical summaries; relationships between variables. Labs released daily and due the same day; Weekly Assignment 1 released.\\
+2 & Jul 13--17 & Regression basics; two-way tables; samples and observational studies; study design and ethics; introduction to probability. Labs released daily and due the same day; Weekly Assignment 2 released; group confirmation due Sunday.\\
+3 & Jul 20--24 & Probability rules; independence; Normal, Binomial, and Poisson distributions; sampling distributions and the Central Limit Theorem. Midterm review; Weekly Assignment 3 released; Part I due Sunday.\\
+4 & Jul 27--31 & Online midterm; confidence intervals; hypothesis testing; power; from z to t tests. Weekly Assignment 4 released.\\
+5 & Aug 3--7 & Comparing two means; paired t tests; ANOVA; non-parametric tests; inference for proportions; inference for linear regression. Weekly Assignment 5 released; Part II due Sunday.\\
+6 & Aug 10--14 & Linear regression part II; chi-square goodness of fit; chi-square independence; final review; Weekly Assignment 6 released; online final exam; Data Project Part III due Friday.\\
+\bottomrule
+\end{longtable}
+
+\section*{Due Dates, Late Work, and Regrades}
+
+Due dates for all graded assignments will be listed on the course website and
+communicated in announcements on Ed Discussion.
+
+\textbf{Grace period.} For electronically submitted assignments, a two-hour
+grace period is provided to account for submission issues. The grace period
+applies by default; you do not need to notify us to use it. It is each
+student's responsibility to confirm that an assignment has been properly
+uploaded.
+
+\textbf{Late work.} Assignments submitted after the grace period but within 24
+hours after the due date will be accepted with a 50\% penalty. Extensions can
+be made for DSP students and should be requested by emailing the course email.
+Other extension requests should explain the situation and include documentation
+where appropriate.
+
+\textbf{Regrades.} Regrade requests must be submitted through Gradescope within
+three days after grades are released. Regrades are for correcting an error in
+the application of the published rubric. If you request reconsideration of one
+part of an assignment, instructors may reconsider grades on the entire
+assignment. Due to the short turnaround time for final grade submissions, we
+generally cannot accommodate regrade requests for the final exam.
+
+\section*{Academic Integrity}
+
+You are a member of an academic community at one of the world's leading
+research universities. Any test, paper, code, or report submitted by you and
+bearing your name is presumed to be your own original work unless otherwise
+specified. You may use words or ideas from other individuals, publications,
+websites, or other sources only with proper attribution.
+
+Students may not circulate or post course materials, including handouts, exams,
+syllabi, assignments, or solutions, without written permission from the
+instructor. If you are unclear about expectations for completing an assignment
+or taking an exam, seek clarification from the instructor or a GSI beforehand.
+
+\section*{Strategies for Successful Learning}
+
+Based on past experience with this course, we recommend that you:
+\begin{itemize}
+  \item Attend lab consistently.
+  \item Ask questions in lecture, lab, office hours, and Ed Discussion.
+  \item Study in a group and take turns explaining concepts to each other.
+  \item Review questions and concepts from weekly assignments and exams where you lost points.
+  \item Use practice exams to become familiar with question types and to practice the material.
+\end{itemize}
+
+\section*{Take Care of Yourself}
+
+Do your best to maintain a healthy lifestyle during this intensive summer
+session by eating well, exercising, getting enough sleep, and taking time to
+recharge your mental health. If you start to feel overwhelmed, be kind to
+yourself and reach out for support. Seeking help is a courageous thing to do
+for yourself and for those who care about you.
+
+Support resources include emotional, physical, safety, social, and basic
+wellbeing resources for students. Academic resources can be found at the
+Student Learning Center and English Language Resource sites. If you notice that
+a classmate may need assistance, please use campus resources or reach out to
+the GSIs or instructor.
+
+\section*{Incomplete Course Grade and Course Evaluation}
+
+Students who have substantially completed the course but, for serious
+extenuating circumstances, are unable to complete remaining course activities
+may request an Incomplete grade. This request must be submitted in writing to
+the GSI and instructor and must include verifiable documentation.
+
+Before the course ends, please participate in the course evaluation. Your
+feedback helps improve the course and future instruction.
+
+\end{document}
