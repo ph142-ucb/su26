@@ -4,7 +4,6 @@ days:
   - date: 2026-07-20
     events:
       "**Lecture 10**{: .label .label-lec} General Rules of Probability":
-        "Ch. 10"
       "**Lab 4**{: .label .label-lab} (due 11:59PM)":
       "**Quiz 10**{: .label .label-quiz} (due 11:59PM)":
   - date: 2026-07-21
