@@ -12,7 +12,7 @@ description: >-
 
 <a href="{{ site.baseurl }}/src/ph142-syllabus-su26.pdf">Download as PDF</a>
 
-<iframe src="{{ site.baseurl }}/src/ph142-syllabus-su26.pdf" width="100%" height="800"></iframe>
+<iframe src="{{ site.baseurl }}/src/ph142-syllabus-su26.pdf" width="100%" height="800"></iframe> 
 
 <hr>
 
