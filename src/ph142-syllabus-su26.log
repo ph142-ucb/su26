@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.5.18)  5 JUL 2026 14:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.5.18)  5 JUL 2026 16:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -372,13 +372,13 @@ Package rerunfilecheck Info: File `ph142-syllabus-su26.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9483 strings out of 476171
- 144897 string characters out of 5795036
+ 9484 strings out of 476171
+ 144908 string characters out of 5795036
  1939975 words of memory out of 5000000
  31365 multiletter control sequences out of 15000+600000
  566787 words of font info for 54 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,8n,79p,290b,536s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,79p,290b,526s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/jovyan/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1095.60
 0pk> </home/jovyan/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.
 600pk> </home/jovyan/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt109
@@ -388,10 +388,10 @@ x1095.600pk> </home/jovyan/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/e
 crm1095.600pk> </home/jovyan/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec
 /ecrm1200.600pk> </home/jovyan/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/
 ec/ecbx1440.600pk>
-Output written on ph142-syllabus-su26.pdf (7 pages, 85826 bytes).
+Output written on ph142-syllabus-su26.pdf (7 pages, 86623 bytes).
 PDF statistics:
- 332 PDF objects out of 1000 (max. 8388607)
- 98 compressed objects within 1 object stream
- 33 named destinations out of 1000 (max. 500000)
+ 335 PDF objects out of 1000 (max. 8388607)
+ 99 compressed objects within 1 object stream
+ 34 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
