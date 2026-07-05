@@ -29,18 +29,16 @@ We will not be updating this page with announcements. For the latest announcemen
 {% endif %}
 
 ## Zoom links
-### Lecture: 
+### Lecture [Zoom Link](https://berkeley.zoom.us/j/95186858740?pwd=9rX7upFeajta4o1fbrgqvOCzu0AMei.1)
 
-https://berkeley.zoom.us/j/94876546212?pwd=4R4VWIaRan1DihgE0qhiRFMwuv53CD.1
-
-Meeting ID: 948 7654 6212
-Passcode: 005498
+Meeting ID: 951 8685 8740
+Passcode: 915366
 
 ### Labs: 
-- 101A, 11:00 am - 11:59 am
-- 102A, 11:00 am - 11:59 am
-- 103A, 5:00 pm - 5:59 pm
-- 104A, 5:00 pm - 5:59 pm
+- 101A, 11:00 am - 11:59 am [Zoom Link](https://berkeley.zoom.us/j/98997781214?pwd=wOBVPm7Xlz5ahJGYC43QUBT7bGZJkg.1)
+- 102A, 11:00 am - 11:59 am [Zoom Link](https://berkeley.zoom.us/j/94610444561?pwd=6YSL6bzXWfa3GkTAvg6CstkKx9eRiv.1)
+- 103A, 5:00 pm - 5:59 pm [Zoom Link](https://berkeley.zoom.us/j/99042895627?pwd=vuTZDoFewKkZ41ChtMNe9vKNKCQeD7.1)
+- 104A, 5:00 pm - 5:59 pm [Zoom Link](https://berkeley.zoom.us/j/91605498049?pwd=hUxckoOsP9Ldbl8fXtzwouBGbvFRrx.1)
 
 ## Course Description
 
