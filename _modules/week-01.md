@@ -4,7 +4,7 @@ days:
   - date: 2026-07-06
     events:
       "**Lecture 1**{: .label .label-lec} [Introduction to the course, the cloud, and PPDAC](https://ph142-ucb.github.io/su26/src/lec/L01_intro_26.pdf)":
-      "**Lab 1**{: .label .label-lab} Introduction to R and RStudio on Datahub (due 11:59PM)":
+      "**Lab 1**{: .label .label-lab} (due 11:59PM)":
       "**Quiz 1**{: .label .label-quiz} (due 11:59PM)":
   - date: 2026-07-07
     events:
@@ -13,7 +13,7 @@ days:
   - date: 2026-07-08
     events:
       "**Lecture 3**{: .label .label-lec} [Visualizing data in R and RStudio (ggplot2)](https://ph142-ucb.github.io/su26/src/lec/l03-visualizing-data.pdf)":
-      "**Lab 2**{: .label .label-lab} Visualization of global Cesarean delivery rates (due 11:59PM)":
+      "**Lab 2**{: .label .label-lab} (due 11:59PM)":
       "**Quiz 3**{: .label .label-quiz} (due 11:59PM)":
   - date: 2026-07-09
     events:
