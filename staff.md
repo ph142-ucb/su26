@@ -23,16 +23,5 @@ description: A listing of all the course staff members.
 
 {% assign tech_gsi = site.staffers | where: 'role', 'Tech GSI' %} {% for staffer in tech_gsi %} {{ staffer }} {% endfor %}
 
-## Tutors
-
-Through the Dream Office at the School of Public Health, we offer weekly group tutoring sessions where we review concepts from the current week's lecture material, work through example questions and live coding exercises for R concepts, and provide a space for students to ask questions and practice.
-
-Our tutoring sessions are held weekly via Zoom and follow this schedule:
-
-- **Alex Kwong**: Thursdays 6-8 PM
-- **Dirk Tolson III**: Wednesdays 6-8 PM
-
-{% assign tutor = site.staffers | where: 'role', 'Tutor' %} {% for staffer in tutor %} {{ staffer }} {% endfor %}
-
 
 

@@ -1,6 +1,6 @@
 ---
 name: Sean Yu (he/his)
-role: Tech GSI
+role: GSI
 email: 
 website: 
 photo: https://ph142-ucb.github.io/su26/img/sean.jpg
