@@ -4,12 +4,11 @@ author: "Student name (ID) for each member of this group"
 output: pdf_document
 ---
 
-Due Dates:
+Due Dates (Submit to Gradescope by 11:59pm):
 
-- Group Confirmation Form: February 13th **10:00pm** (counts towards participation grade)
-- Part I: February 27th 11:59pm
-- Part II: April 3rd 11:59pm
-- Part III: May 1st **5:00pm**
+- Part I:  July 17th
+- Part II: July 31st
+- Part III: August 14th
 
 **Make sure to provide enough time for Gradescope submission to be uploaded if you include large visualizations.**
 
@@ -44,23 +43,44 @@ You should be using the same dataset for Part III that you used in part II.
 
 16. [1 mark]  Include parts I and II of your project.
 
+
+\newpage
+
 17.  [2 marks]
 Identify a statistical test to apply to your data (must be a statistical test that we cover in part III of the course).  Name the statistical test you have chosen and explain why this is the appropriate test for these data. (for example, if I have a pre and post intervention measure of morning sleepyness that is quantitative, I might choose a paired t test, because the paired t test is appropriate for continuous outcome data in 2 groups that are inherently related)  
+
+
+\newpage
 
 18. [2 marks] What assumptions are required by the testing method you chose? 
 Are these assumptions met by your data?  How did you assess this? For example, one of the assumptions of the t-test is that the data are normally distributed, so you might choose to assess this with a histogram, or a q-q plot.  
 
+
+\newpage
+
 19. [2 marks]
 Clearly state the null and alternative hypotheses for your test.  
+
+
+\newpage
 
 20.  [2 marks]
 Conduct the statistical test.  Include the R code you used to generate your results. Annotate your code to help us follow your reasoning.
 
+
+\newpage
+
 21.  [4 marks]
 Present your results in a clear summary. This should include both a text summary and a table or figure with appropriate labeling. For example, if your outcome and predictor/exposure variables are both binary, this might be a 2x2 table.  If your method was regression, you might present your regression line graphically.  
 
+
+\newpage
+
 22.  [4 marks] 
 Interpret your findings. Include a statement about the evidence, your conclusions, and the generalizability of your findings. Our analysis and conclusions depend on the quality of our study design and the methods of data collection. Any missteps or oversights during the data collection process could potentially change the outcome of what we are trying to find.  Consider the methods used to collect the data you analyzed. Was there any potential issue in how the participants were selected/recruited, retained, or assessed that may have impacted the outcome of your analysis/visualization? Were there any potential biases that you might be concerned about?  Were there factors that were not measured or considered that you think could be important to the interpretation of these data?
+
+
+\newpage
 
 23.  [1 mark] Create a statement of contribution. This is now common in journal articles for example the American Journal of Epidemiology provides the following instructions to authors: “Authorship credit should be based on criteria developed by the International Committee for Medical Journal Editors (ICMJE): 1) substantial contributions to conception and design, or acquisition of data, or analysis and interpretation of data; 2) drafting the article or reviewing it and, if appropriate, revising it critically for important intellectual content; 3) final approval of the version to be published. Authors should meet all conditions. In addition, each author must certify that he or she has participated sufficiently in the work to believe in its overall validity and to take public responsibility for appropriate portions of its content. Author names should be listed in ScholarOne and author contributions should be detailed in the cover letter (e.g., “Author A designed the study and directed its implementation, including quality assurance and control. Author B helped supervise the field activities and designed the study’s analytic strategy. Author C helped conduct the literature review and prepare the Methods and the Discussion sections of the text.”).”
 
@@ -68,4 +88,5 @@ An example from a recent issue of the BMJ (Woolf, Masters, and Aron BMJ 2021;373
 "Contributors: SHW led the production of this manuscript and had primary responsibility for the composition. He is guarantor. RKM contributed revisions and had primary responsibility for data acquisition and analysis, the modeling results that form the basis for this study, and production of the supplementary material. LYA contributed revisions and had primary responsibility for dealing with the study’s policy implications in the discussion section. The corresponding author attests that all listed authors meet authorship criteria and that no others meeting the criteria have been omitted."
 
 For your project, please craft a statement indicating the contributions of each group member. If your group divided the assignment responsibilities by question you may use question numbers to indicate which member had primary responsibility for each question (for example : Member XX had primary responsibility for questions x,x,x..). 
+
 
