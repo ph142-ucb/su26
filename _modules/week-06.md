@@ -11,6 +11,7 @@ days:
       "**Lecture 25**{: .label .label-lec} ":
       "**Lab 11**{: .label .label-lab} (due 11:59PM)":
       "**Quiz 25**{: .label .label-quiz} (due 11:59PM)":
+  - date: 2026-08-12  
     events:
       "**Lecture 26**{: .label .label-lec} ":
       "**Quiz 26**{: .label .label-quiz} (due 11:59PM)":
