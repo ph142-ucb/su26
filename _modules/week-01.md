@@ -12,15 +12,15 @@ days:
       "**Quiz 2**{: .label .label-quiz} (due 11:59PM)":
   - date: 2026-07-08
     events:
-      "**Lecture 3**{: .label .label-lec} Numerically Summarizing Spread & Central Tendency":
+      "**Lecture 3**{: .label .label-lec} [Numerically Summarizing Spread & Central Tendency] (https://github.com/ph142-ucb/ph142-su26/blob/main/lec/lec3/l03-relationships-between-two-variables.pdf) [(Video)] (https://bcourses.berkeley.edu/courses/1555011/external_tools/90481)":
       "**Lab 2**{: .label .label-lab} (due 11:59PM)":
       "**Quiz 3**{: .label .label-quiz} (due 11:59PM)":
   - date: 2026-07-09
     events:
-      "**Lecture 4**{: .label .label-lec} Relationships Between Two Variables":
+      "**Lecture 4**{: .label .label-lec} [Relationships Between Two Variables] (https://github.com/ph142-ucb/ph142-su26/blob/main/lec/lec4/l04-intro-to-regression.pdf) [(Video)] (https://bcourses.berkeley.edu/courses/1555011/external_tools/90481)":
       "**Quiz 4**{: .label .label-quiz} (due 11:59PM)":
   - date: 2026-07-10
     events:
-      "**Lecture 5**{: .label .label-lec} Introduction to Regression":
+      "**Lecture 5**{: .label .label-lec} [Introduction to Regression] (https://github.com/ph142-ucb/ph142-su26/blob/main/lec/lec5/l05-two-categorical-vars.pdf) [(Video)] (https://bcourses.berkeley.edu/courses/1555011/external_tools/90481)":
       "**Quiz 5**{: .label .label-quiz} (due 11:59PM)":
 ---
