@@ -8,14 +8,13 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 # Data Skills Demonstration Project
 
 
-[Data Skills Demonstration Project Part I]({{ site.baseurl }}/src/dp/part1-instructions_su26.pdf)  
+[Data Skills Demonstration Project Part II]({{ site.baseurl }}/src/dp/part2-instructions_su26.pdf)  
 
-- Data project groups are randomly assigned. Your GSI will introduce groups during lab section on 7/7.
 - Note: Make sure to check in with your assigned GSI before the due date! This is a required part of your participation grade.
 
 
-## Data Skills Demonstration Project Part I
-<iframe src="{{ site.baseurl }}/src/dp/part1_instructions_su26.pdf" width="100%" height="800"></iframe> 
+## Data Skills Demonstration Project Part II
+<iframe src="{{ site.baseurl }}/src/dp/part2_instructions_su26.pdf" width="100%" height="800"></iframe> 
 
 <hr>
 
