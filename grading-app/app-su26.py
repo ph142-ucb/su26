@@ -123,11 +123,11 @@ app_ui = ui.page_fluid(
                 ui.card(
                     ui.card_header("Quizzes (10%)"),
                     ui.div(
-                        ui.HTML("Enter percentage grades (e.g., 75). <b>11 regular quizzes + 1 EC quiz</b>. The lowest regular quiz is dropped."),
+                        ui.HTML("Enter percentage grades (e.g., 75). <b>26 regular quizzes </b>."),
                         class_="section-desc"
                     ),
                     ui.layout_columns(
-                        *[ui.input_numeric(f"q{i:02d}", f"Quiz {i}", value=None, min=0, max=100) for i in range(1, 12)],
+                        *[ui.input_numeric(f"q{i:02d}", f"Quiz {i}", value=None, min=0, max=100) for i in range(1, 27)],
                         ui.div(ui.input_numeric("q_ec", "EC Quiz", value=None, min=0, max=100)),
                         col_widths=3
                     ),
@@ -138,7 +138,7 @@ app_ui = ui.page_fluid(
                 ui.card(
                     ui.card_header(ui.HTML("<i class='fas fa-flask'></i> Lab Assignments (10%)")),
                     ui.div(
-                        ui.HTML("Select status for each lab. <b>11 regular labs + 1 EC lab</b>. The lowest regular lab is dropped."),
+                        ui.HTML("Select status for each lab. <b>11 regular labs</b>."),
                         class_="section-desc"
                     ),
                     ui.layout_columns(
