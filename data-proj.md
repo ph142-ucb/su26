@@ -8,12 +8,12 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 # Data Skills Demonstration Project
 
 
-[Data Skills Demonstration Project Part II]({{ site.baseurl }}/src/dp/part3-instructions-su26.pdf)  
+[Data Skills Demonstration Project Part III]({{ site.baseurl }}/src/dp/part3-instructions-su26.pdf)  
 
 - Note: Make sure to check in with your assigned GSI before the due date! This is a required part of your participation grade.
 
 
-## Data Skills Demonstration Project Part II
+## Data Skills Demonstration Project Part III
 <iframe src="{{ site.baseurl }}/src/dp/part3-instructions-su26.pdf" width="100%" height="800"></iframe> 
 
 <hr>
