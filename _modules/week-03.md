@@ -17,10 +17,10 @@ days:
       "**Quiz 12**{: .label .label-quiz} (due 11:59PM)":
   - date: 2026-07-23
     events:
-      "**Lecture 13**{: .label .label-lec} The Poisson Distribution":
+      "**Lecture 13**{: .label .label-lec} [The Poisson Distribution](https://github.com/ph142-ucb/ph142-su26/blob/main/lec/lec13/l13-poisson.pdf) [(Video)](https://bcourses.berkeley.edu/courses/1555011/external_tools/90481)":
       "**Quiz 13**{: .label .label-quiz} (due 11:59PM)":
   - date: 2026-07-24
     events:
-      "**Lecture 14**{: .label .label-lec} Sampling Distributions and the Central Limit Theorem":
+      "**Lecture 14**{: .label .label-lec} [Sampling Distributions and the Central Limit Theorem](https://github.com/ph142-ucb/ph142-su26/blob/main/lec/lec14/l14-central-limit.pdf) [(Video)](https://bcourses.berkeley.edu/courses/1555011/external_tools/90481)":
       "**Quiz 14**{: .label .label-quiz} (due 11:59PM)":
 ---
